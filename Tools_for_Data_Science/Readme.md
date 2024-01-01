@@ -1,2 +1,11 @@
 # Tools for Data Science
-Week 6
+Install Jupyter Notebook
+'''
+pip install notebook
+'''
+
+Launch Jupyter nootebook
+```
+jupyter notebook
+
+```
